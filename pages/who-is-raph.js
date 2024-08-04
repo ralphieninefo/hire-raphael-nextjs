@@ -9,9 +9,12 @@ export default function WhoIsRaph() {
       </Head>
       <main className={styles.main}>
         <h1>Who is Raph?</h1>
-        <p>Content about who Raph is...</p>
+        <p>Most people call me Raph.</p>
+        <p>French is my first language.</p>
+        <p>I love soccer (football) and my favorite player of all time is Zidane.</p>
+        <p>I’ve lived in Denton, Texas (shoutout Norah Jones) and Sacramento, but I’ve called San Francisco my home for the last 10 years.</p>
+        <p>I’m a people person, a gritty problem solver, and most importantly, a lifelong learner.</p>
       </main>
     </div>
   );
 }
-
