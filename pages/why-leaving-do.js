@@ -13,11 +13,9 @@ export default function WhyLeavingDO() {
         <p>I really like my customers.</p>
         <p>I’ve learned a lot about back-end cloud (coming from FinTech had to learn).</p>
         <p>DO and Vercel are also similar in many ways…</p>
-        <ul>
-          <li>They have a Developer Ethos</li>
-          <li>Open Source Community</li>
-          <li>Simplifying or “Democratizing” access to Dev Tools</li>
-        </ul>
+        <p>They have a Developer Ethos</p>
+        <p>Open Source Community</p>
+        <p>Simplifying or “Democratizing” access to Dev Tools</p>
       </main>
     </div>
   );
