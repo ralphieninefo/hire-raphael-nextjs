@@ -5,14 +5,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Hi, I'm Raphaël</title>
+        <title>Hi Guillermo! I'm Raphaël. Thanks for taking the time to meet me :)</title>
         <meta name="description" content="Hire Raphaël Sirvent" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi, I'm <a href="https://www.linkedin.com/in/raphael-sirvent/" target="_blank" rel="noopener noreferrer">Raphaël</a>
+          Hi Guillermo! I'm <a href="https://www.linkedin.com/in/raphael-sirvent/" target="_blank" rel="noopener noreferrer">Raphaël</a>. Thanks for taking the time to meet me :)
         </h1>
 
         <p className={styles.greeting}>
@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <p className={styles.intro}>
-          Below are the tech certs I've obtained. You'll notice some recent backend cloud certs that I've done to upskill myself while at DO. Currently, I'm working on my Oracle OSI Generative AI Professional. I also wanted to demonstrate that I have a handle on GitHub and Vercel, so I made this website. I tried to match the Vercel ethos with a black background and white text, unlike my first iteration (just trying to ITG here). I'm also working on the "Learn Next.js series" by going through the 16 chapters listed there.
+          Below are the tech certs I've obtained. You'll notice some recent backend cloud certs that I've done to upskill myself while at DO. Currently, I'm working on my Oracle OSI Generative AI Professional. I also wanted to demonstrate that I have a handle on GitHub and Vercel, so I made this website. I tried to match the Vercel ethos with a black background and white text, unlike my first iteration (just trying to ITG here). I'm also working on the <a href="https://nextjs.org/learn" target="_blank" rel="noopener noreferrer">"Learn Next.js series"</a> by going through the 16 chapters listed there.
         </p>
 
         <div className={styles.certifications}>
@@ -92,3 +92,4 @@ export default function Home() {
     </div>
   );
 }
+
