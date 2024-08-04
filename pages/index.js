@@ -40,6 +40,54 @@ export default function Home() {
             <p>I continually improve solutions through rapid iteration and collaboration, delivering outstanding results.</p>
           </div>
         </div>
+
+        <div className={styles.certifications}>
+          <h2>My Tech Certifications</h2>
+          <ul>
+            <li>
+              <strong>Associate Cloud Engineer Certification</strong><br />
+              Google<br />
+              Issued Jun 2024 · Expires Jun 2027<br />
+              Credential ID 3d5eb3805b05413d92adecf844f644a2<br />
+              Skills: Google Kubernetes Engine (GKE)
+            </li>
+            <li>
+              <strong>Cloud Digital Leader</strong><br />
+              Google<br />
+              Issued Jun 2023 · Expires Jun 2026<br />
+              Credential ID 42297<br />
+              Skills: Google Cloud Platform (GCP)
+            </li>
+            <li>
+              <strong>AWS Certified Cloud Practitioner</strong><br />
+              Amazon Web Services (AWS)<br />
+              Issued Jan 2023<br />
+              Credential ID AWS03221448<br />
+              Skills: Cloud Computing · Amazon Web Services (AWS)
+            </li>
+            <li>
+              <strong>Intermediate SQL for Data Scientists</strong><br />
+              LinkedIn<br />
+              Issued Feb 2022
+            </li>
+            <li>
+              <strong>Google Data Analytics</strong><br />
+              Google<br />
+              Issued Jul 2021<br />
+              Credential ID 8MKRH4B3VCZP
+            </li>
+            <li>
+              <strong>Microsoft Excel 2016 Introductory</strong><br />
+              Microsoft<br />
+              Issued Dec 2020
+            </li>
+            <li>
+              <strong>Microsoft Office Specialist: Excel 2016</strong><br />
+              Microsoft<br />
+              Issued Dec 2020
+            </li>
+          </ul>
+        </div>
       </main>
 
       <footer className={styles.footer}>
