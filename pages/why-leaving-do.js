@@ -9,7 +9,15 @@ export default function WhyLeavingDO() {
       </Head>
       <main className={styles.main}>
         <h1>Why leave DO?</h1>
-        <p>Content about why Raph might consider leaving DO...</p>
+        <p>If I’m given the opportunity to work at Vercel, leaving DO would be a difficult decision.</p>
+        <p>I really like my customers.</p>
+        <p>I’ve learned a lot about back-end cloud (coming from FinTech had to learn).</p>
+        <p>DO and Vercel are also similar in many ways…</p>
+        <ul>
+          <li>They have a Developer Ethos</li>
+          <li>Open Source Community</li>
+          <li>Simplifying or “Democratizing” access to Dev Tools</li>
+        </ul>
       </main>
     </div>
   );
