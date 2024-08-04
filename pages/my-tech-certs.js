@@ -56,6 +56,11 @@ export default function MyTechCerts() {
               <p><strong>Microsoft</strong></p>
               <p><strong>Issued:</strong> December 2020</p>
             </div>
+            <div className={styles.timelineItem}>
+              <h3>Currently working on OCI Generative AI Professional</h3>
+              <p><strong>Oracle</strong></p>
+              <p>Expanding skills in Generative AI with Oracle Cloud Infrastructure.</p>
+            </div>
           </div>
         </div>
       </main>
