@@ -17,9 +17,9 @@ export default function Home() {
         </h1>
 
         <nav className={styles.nav}>
-          <Link href="/who-is-raph"><a>Who is Raph?</a></Link>
+          <Link href="/about-me"><a>About Me</a></Link>
           <Link href="/why-join-vercel"><a>Why join Vercel?</a></Link>
-          <Link href="/my-tech-certs"><a>My Tech certs</a></Link>
+          <Link href="/my-tech-certs"><a>My Tech Certs</a></Link>
         </nav>
       </main>
     </div>
