@@ -15,12 +15,6 @@ export default function WhyJoinVercel() {
         <p>They have a developer ethos, open source community, and focus on simplifying or "democratizing" access to dev tools.</p>
         <p>Moreover, Vercel and DO share similar customers, primarily developers, tech startups, and enterprise customers who seek efficient, scalable, and user-friendly cloud solutions.</p>
         <p>Both companies emphasize a strong commitment to developer experience and community engagement, making them ideal environments for fostering innovation and growth.</p>
-
-        <h2>Shared vision and values</h2>
-        <p>My work at DO aligns with Vercel's mission to provide the best developer experience:</p>
-        <p>Passionate about open source and contributing to the developer community.</p>
-        <p>Committed to simplifying access to powerful development tools and empowering developers and enterprise customers to build amazing applications.</p>
-
         <p>Joining Vercel represents an opportunity to focus on the creative and the 'profit center' of a business. I want to get closer to the app development side as opposed to back end infra management.</p>
       </main>
     </div>
