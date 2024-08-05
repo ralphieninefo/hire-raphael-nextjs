@@ -24,7 +24,6 @@ export default function MyTechCerts() {
               <h3>Associate Cloud Engineer Certification</h3>
               <p><strong>Google</strong></p>
               <p><strong>Issued:</strong> June 2024</p>
-              <p><strong>Expires:</strong> June 2027</p>
               <p><strong>Skills:</strong> Google Kubernetes Engine (GKE)</p>
             </div>
           </div>
@@ -33,7 +32,6 @@ export default function MyTechCerts() {
               <h3>Cloud Digital Leader</h3>
               <p><strong>Google</strong></p>
               <p><strong>Issued:</strong> June 2023</p>
-              <p><strong>Expires:</strong> June 2026</p>
               <p><strong>Skills:</strong> Google Cloud Platform (GCP)</p>
             </div>
           </div>
