@@ -13,13 +13,13 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi Guillermo! I'm <a href="https://www.linkedin.com/in/raphael-sirvent/" target="_blank" rel="noopener noreferrer">Raphaël</a>. Thanks for taking the time to meet me :)
+          Hi Guillermo! I'm <a href="https://www.linkedin.com/in/raphael-sirvent/" target="_blank" rel="noopener noreferrer" className={styles.link}>Raphaël</a>. Thanks for taking the time to meet me :)
         </h1>
 
         <nav className={styles.nav}>
-          <Link href="/about-me"><a>About Me</a></Link>
-          <Link href="/why-join-vercel"><a>Why join Vercel?</a></Link>
-          <Link href="/my-tech-certs"><a>My Tech Certs</a></Link>
+          <Link href="/about-me"><a className={styles.link}>About Me</a></Link>
+          <Link href="/why-join-vercel"><a className={styles.link}>Why join Vercel?</a></Link>
+          <Link href="/my-tech-certs"><a className={styles.link}>My Tech Certs</a></Link>
         </nav>
       </main>
     </div>
