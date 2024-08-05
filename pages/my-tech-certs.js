@@ -25,7 +25,6 @@ export default function MyTechCerts() {
               <p><strong>Google</strong></p>
               <p><strong>Issued:</strong> June 2024</p>
               <p><strong>Expires:</strong> June 2027</p>
-              <p><strong>Credential ID:</strong> 3d5eb3805b05413d92adecf844f644a2</p>
               <p><strong>Skills:</strong> Google Kubernetes Engine (GKE)</p>
             </div>
           </div>
@@ -35,7 +34,6 @@ export default function MyTechCerts() {
               <p><strong>Google</strong></p>
               <p><strong>Issued:</strong> June 2023</p>
               <p><strong>Expires:</strong> June 2026</p>
-              <p><strong>Credential ID:</strong> 42297</p>
               <p><strong>Skills:</strong> Google Cloud Platform (GCP)</p>
             </div>
           </div>
@@ -44,7 +42,6 @@ export default function MyTechCerts() {
               <h3>AWS Certified Cloud Practitioner</h3>
               <p><strong>Amazon Web Services (AWS)</strong></p>
               <p><strong>Issued:</strong> January 2023</p>
-              <p><strong>Credential ID:</strong> AWS03221448</p>
               <p><strong>Skills:</strong> Cloud Computing · Amazon Web Services (AWS)</p>
             </div>
           </div>
@@ -60,7 +57,6 @@ export default function MyTechCerts() {
               <h3>Google Data Analytics</h3>
               <p><strong>Google</strong></p>
               <p><strong>Issued:</strong> July 2021</p>
-              <p><strong>Credential ID:</strong> 8MKRH4B3VCZP</p>
             </div>
           </div>
           <div className={styles.timelineItem}>
