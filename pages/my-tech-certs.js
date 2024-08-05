@@ -14,19 +14,18 @@ export default function MyTechCerts() {
           <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
               <h3>Currently working on OCI Generative AI Professional</h3>
-              <p><strong>Oracle</strong></p>
               <p>Status: Pending</p>
             </div>
           </div>
           <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
-              <h3>Associate Cloud Engineer Certification</h3>
+              <h3>GCP Associate Cloud Engineer Certification</h3>
               <p><strong>Issued:</strong> June 2024</p>
             </div>
           </div>
           <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
-              <h3>Cloud Digital Leader</h3>
+              <h3>GCP Cloud Digital Leader</h3>
               <p><strong>Issued:</strong> June 2023</p>
             </div>
           </div>
@@ -38,7 +37,7 @@ export default function MyTechCerts() {
           </div>
           <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
-              <h3>Intermediate SQL for Data Scientists</h3>
+              <h3>SQL for Data Scientists</h3>
               <p><strong>Issued:</strong> February 2022</p>
             </div>
           </div>
@@ -50,7 +49,7 @@ export default function MyTechCerts() {
           </div>
           <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
-              <h3>Microsoft Excel 2016 Introductory</h3>
+              <h3>Microsoft Excel 2016</h3>
               <p><strong>Issued:</strong> December 2020</p>
             </div>
           </div>
