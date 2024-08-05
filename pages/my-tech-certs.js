@@ -13,6 +13,12 @@ export default function MyTechCerts() {
         <div className={styles.certifications}>
           <div className={styles.timeline}>
             <div className={styles.timelineItem}>
+              <h3>Currently working on OCI Generative AI Professional</h3>
+              <p><strong>Oracle</strong></p>
+              <p>Status: Pending</p>
+              <p>Expanding skills in Generative AI with Oracle Cloud Infrastructure.</p>
+            </div>
+            <div className={styles.timelineItem}>
               <h3>Associate Cloud Engineer Certification</h3>
               <p><strong>Google</strong></p>
               <p><strong>Issued:</strong> June 2024</p>
@@ -55,11 +61,6 @@ export default function MyTechCerts() {
               <h3>Microsoft Office Specialist: Excel 2016</h3>
               <p><strong>Microsoft</strong></p>
               <p><strong>Issued:</strong> December 2020</p>
-            </div>
-            <div className={styles.timelineItem}>
-              <h3>Currently working on OCI Generative AI Professional</h3>
-              <p><strong>Oracle</strong></p>
-              <p>Expanding skills in Generative AI with Oracle Cloud Infrastructure.</p>
             </div>
           </div>
         </div>
